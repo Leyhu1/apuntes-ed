@@ -1,4 +1,4 @@
-El desarrollo de software permite diseñar y construir aplicaciones informáticas.
+La creación de software comprende el diseño, desarrollo y construcción de programas.
 El código fuente se traduce a código máquina mediante compiladores, ensambladores y enlazadores, o se ejecuta mediante intérpretes.
 Los lenguajes de programación se clasifican según su nivel, traducción, paradigma, tipado y finalidad, como Java, C o Python.
 El ciclo de vida del software incluye análisis, diseño, codificación, pruebas, documentación, despliegue y mantenimiento.
