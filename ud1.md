@@ -6,3 +6,4 @@ Las metodologías ágiles, como Scrum, Kanban y XP, permiten trabajar en equipo,
 Por último, existen herramientas de desarrollo como los IDE, depuradores y sistemas de control de versiones, que se eligen según su usabilidad y eficiencia.
 Este cambio es una prueba para practicar Git.
 Cambio realizado desde el ordenador de casa.
+Cambio realizado desde el ordenador de clase.
